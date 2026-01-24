@@ -38,7 +38,7 @@ My research interest includes robot navigation and manipulation, reinforcement l
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/social.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation](https://arxiv.org/pdf/2506.14305)
