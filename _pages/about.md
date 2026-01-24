@@ -34,7 +34,7 @@ My research interest includes robot navigation and manipulation, reinforcement l
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi'ke Zhu, Jiankun Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- LSTP-Nav proposes a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
+- This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
 </div>
 </div>
 
@@ -49,9 +49,6 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
 - This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via **epistemic
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024</div><img src='images/GNN-based.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024</div><img src='images/GNN-based.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
