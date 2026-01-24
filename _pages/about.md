@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024</div><img src='images/GNN-based.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Graph neural network-based method for robot path planning](https://www.sciencedirect.com/science/article/pii/S2667379724000056)
