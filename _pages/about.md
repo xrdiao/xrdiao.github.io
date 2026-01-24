@@ -51,8 +51,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2022.07* Second Prize in the Mate International Underwater Robot Competition Global Division, First Prize in the China Division. 
 - *2025.10* Southern University of Science and Technology Master's National Scholarship. 
