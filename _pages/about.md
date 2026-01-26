@@ -19,7 +19,9 @@ redirect_from:
 
 I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Awarded national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and engaging in interdisciplinary collaborations to develop innovative solutions for real-world automation challenges.
 
-My research interest includes robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total <a href="https://scholar.google.com/citations?user=kX-y4IoAAAAJ">
+  <img src="https://img.shields.io/endpoint?url=https://scholar-citations.vercel.app/api/citations?user=kX-y4IoAAAAJ&logo=Google%20Scholar&label=citations&color=9cf">
+</a>
 
 
 # 🔥 News
@@ -46,7 +48,7 @@ My research interest includes robot navigation and manipulation, reinforcement l
 Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via **epistemic
+- This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via epistemic and aleatoric uncertainty.
 </div>
 </div>
 
