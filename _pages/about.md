@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Awarded national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and engaging in interdisciplinary collaborations to develop innovative solutions for real-world automation challenges.
+I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Having won national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and engaging in interdisciplinary collaborations to develop innovative solutions to real-world automation challenges.
 
 My research interest includes robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -63,8 +63,8 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
 </div>
 
 # 🎖 Honors and Awards
-- *2022.07* Second Prize in the Mate International Underwater Robot Competition Global Division, First Prize in the China Division. 
-- *2025.10* Southern University of Science and Technology Master's National Scholarship. 
+- *2025.10* National Scholarship. The highest honor for a master's student.
+- *2022.07* Mate International Underwater Robot Competition. Second Prize in the Global Division, First Prize in the China Division. 
 
 # 📖 Educations
 - *2023.06 - 2026.01 (now)*, Southern University of Science and Technology (SUSTech), M.S., Department of Electrical and Electronic Engineering  
