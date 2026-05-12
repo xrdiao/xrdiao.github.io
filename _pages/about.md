@@ -28,7 +28,7 @@ My research interests include robot navigation and manipulation, reinforcement l
 - *2025.10*: &nbsp;🎉🎉 Join the xxx Club. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization]
