@@ -36,7 +36,7 @@ My research interests include robot navigation and manipulation, reinforcement l
 Zhe Zhang $^{*}$, \textbf{Xingrong Diao}$^{*}$, Haoxiang Liang, Han Yang, Bi'ke Zhu, Dandan Zhang, Jiankun Wang
 
 [**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/scsp-robot/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
+- This project developed a cascaded optimization framework for contact-rich manipulation, including contact selection and contact planning modules, to enable efficient contact reasoning and trajectory generation for complex object geometries.
 </div>
 </div>
 
