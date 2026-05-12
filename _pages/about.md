@@ -33,7 +33,7 @@ My research interests include robot navigation and manipulation, reinforcement l
 
 [Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization]
 
-Zhe Zhang*, \textbf{Xingrong Diao}*$, Haoxiang Liang, Han Yang, Bi'ke Zhu, Dandan Zhang, Jiankun Wang
+Zhe Zhang*, **Xingrong Diao***, Haoxiang Liang, Han Yang, Bi'ke Zhu, Dandan Zhang, Jiankun Wang
 
 [**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/scsp-robot/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This project developed a cascaded optimization framework for contact-rich manipulation, including contact selection and contact planning modules, to enable efficient contact reasoning and trajectory generation for complex object geometries.
