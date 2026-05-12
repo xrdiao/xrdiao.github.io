@@ -31,11 +31,11 @@ My research interests include robot navigation and manipulation, reinforcement l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization]
+Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization
 
 Zhe Zhang*, **Xingrong Diao***, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zhang, Jiankun Wang
 
-[**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/scsp-robot/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://sites.google.com/view/scsp-robot/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This project developed a cascaded optimization framework for contact-rich manipulation, including contact selection and contact planning modules, to enable efficient contact reasoning and trajectory generation for complex object geometries.
 </div>
 </div>
@@ -47,7 +47,7 @@ Zhe Zhang*, **Xingrong Diao***, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zhan
 
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Jiankun Wang
 
-[**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/lstp-net/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
 </div>
 </div>
