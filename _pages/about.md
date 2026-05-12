@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Having won national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and engaging in interdisciplinary collaborations to develop innovative solutions to real-world automation challenges.
+I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Having won national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and collaborating across disciplines to develop innovative solutions to real-world automation challenges.
 
-My research interests include robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total 21.
+My research interests include robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences, with a total of 31.
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
