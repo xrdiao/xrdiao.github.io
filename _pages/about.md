@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Having won national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and engaging in interdisciplinary collaborations to develop innovative solutions to real-world automation challenges.
 
-My research interest includes robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total 21.
+My research interests include robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences with total 21.
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
@@ -31,11 +31,26 @@ My research interest includes robot navigation and manipulation, reinforcement l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization]
+
+Zhe Zhang $^{*}$, \textbf{Xingrong Diao}$^{*}$, Haoxiang Liang, Han Yang, Bi'ke Zhu, Dandan Zhang, Jiankun Wang
+
+[**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/scsp-robot/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/social.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/pdf/2408.16370)
 
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi'ke Zhu, Jiankun Wang
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://sites.google.com/view/lstp-net/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://sites.google.com/view/lstp-net/](https://sites.google.com/view/lstp-net/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
 </div>
 </div>
