@@ -35,7 +35,7 @@ My research interest includes robot navigation and manipulation, reinforcement l
 
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi'ke Zhu, Jiankun Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://sites.google.com/view/lstp-net/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
 </div>
 </div>
@@ -47,7 +47,6 @@ My research interest includes robot navigation and manipulation, reinforcement l
 
 Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via epistemic and aleatoric uncertainty.
 </div>
 </div>
@@ -59,7 +58,6 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
 
 **Xingrong Diao**, Wenzheng Chi, Jiankun Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The proposed GNN-based path planning method reduces collision checks to 0.49% of PRM and 1.74% of RRT* in 7D environments, achieving a 62× speedup in planning time (0.193s vs. PRM's 12.02s) while maintaining a 98% success rate, though with slightly higher path costs. In 6D real-world tests, it cuts collision checks by 99.7% and planning time by 98.6% compared to baselines.
 </div>
 </div>
