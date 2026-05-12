@@ -40,9 +40,6 @@ Zhe Zhang $^{*}$, \textbf{Xingrong Diao}$^{*}$, Haoxiang Liang, Han Yang, Bi'ke 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/social.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
