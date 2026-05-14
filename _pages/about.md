@@ -25,7 +25,7 @@ My research interests include robot navigation and manipulation, reinforcement l
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Join the xxx Club. 
+- *2023.09*: &nbsp;🎉🎉 Join the r$\pi$ Club. 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
