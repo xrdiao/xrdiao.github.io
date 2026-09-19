@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master’s student in Electronic Information Engineering at SUSTech with a solid foundation in robotics and AI. My research focuses on path planning and multi-agent navigation. Having won national scholarships and robotics competition prizes, I am passionate about staying current with robotics and AI advancements, participating in hackathons, and collaborating across disciplines to develop innovative solutions to real-world automation challenges.
 
-My research interests include robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences, with a total of 31.
+My research interests include robot navigation and manipulation, reinforcement learning, and contact dynamics. I have published more than 3 papers at the top international conferences, with a total of <span id='total_cit'>31</span>.
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
@@ -35,29 +35,31 @@ Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with C
 
 Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zhang, Jiankun Wang
 
-[**Project**](https://sites.google.com/view/scsp-robot/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://sites.google.com/view/scsp-robot/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:UeHWp8X0CEIC'></span></strong>
 - This project developed a cascaded optimization framework for contact-rich manipulation, including contact selection and contact planning modules, to enable efficient contact reasoning and trajectory generation for complex object geometries.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASE 2026</div><img src='images/LSTP.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/pdf/2408.16370)
+[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://doi.org/10.1109/TASE.2026.3725345)
 
-**Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Jiankun Wang
+**Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Baozhi Jia, Jiankun Wang
 
-[**Project**](https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/social.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSMC: Systems 2026</div><img src='images/social.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation](https://arxiv.org/pdf/2506.14305)
+[Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation](https://doi.org/10.1109/TSMC.2026.3720408)
 
-Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, and Jiankun Wang,
+Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
+
+[**Project**](https://sites.google.com/view/lr-mpc/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via epistemic and aleatoric uncertainty.
 </div>
