@@ -72,6 +72,8 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 **Xingrong Diao**, Wenzheng Chi, Jiankun Wang
 
+<strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u5HHmVD_uO8C'></span></strong>
+
 - The proposed GNN-based path planning method reduces collision checks to 0.49% of PRM and 1.74% of RRT* in 7D environments, achieving a 62× speedup in planning time (0.193s vs. PRM's 12.02s) while maintaining a 98% success rate, though with slightly higher path costs. In 6D real-world tests, it cuts collision checks by 99.7% and planning time by 98.6% compared to baselines.
 </div>
 </div>
