@@ -52,7 +52,7 @@ redirect_from:
 - *2026.04 - 2026.06* · Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the [2026 World Robot Conference](https://www.worldrobotconference.com/).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with Cascaded Optimization
@@ -106,6 +106,12 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 - *2025.10* National Scholarship. The highest honor for a master's student.
 - *2023.10* SUSTech Graduate Academic Scholarship, Special Prize.
 - *2022.07* MATE ROV World Championship. Global runner-up in the online division and champion of the mainland China division as a core member of the Glaucus team.
+
+# 🤝 Academic Service
+<span class='anchor' id='academic-service'></span>
+- Journal Reviewer: IEEE Transactions on Automation Science and Engineering (T-ASE).
+- Journal Reviewer: Biomimetic Intelligence and Robotics.
+- Conference Reviewer: IEEE International Conference on Robotics and Automation (ICRA).
 
 # 📖 Education
 <span class='anchor' id='-educations'></span>
