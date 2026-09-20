@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class='homepage-hero'>
-  <h1 class='homepage-hero__title'>Robot Learning &amp; Control</h1>
-  <p class='homepage-hero__focus'>Humanoid Robotics · Reinforcement Learning · Whole-Body Control</p>
-  <p class='homepage-hero__intro'>I received my M.S. in Electronic Information Engineering from Southern University of Science and Technology (SUSTech) in 2026. I work on learning-based whole-body control for humanoid robots, with interests in contact-rich interaction, task-conditioned behaviors, behavior foundation models, and sim-to-real deployment.</p>
+  <h1 class='homepage-hero__focus'>Humanoid Robotics · Reinforcement Learning · Whole-Body Control</h1>
+  <p class='homepage-hero__intro'>I received my M.S. in Electronic Information Engineering from SUSTech in 2026.</p>
+  <p class='homepage-hero__intro'>I work on learning-based whole-body control for humanoid robots, particularly contact-rich interaction and task-conditioned behaviors, with broader interests in behavior foundation models and sim-to-real deployment.</p>
   <p class='homepage-hero__intro'>My previous research spans contact-rich manipulation, learning-based robot navigation, and motion planning.</p>
+  <p class='homepage-hero__interests'><span>Research interests:</span> Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Behavior Foundation Models · Motion Planning · Sim-to-Real</p>
   <div class='homepage-stats' aria-label='Research statistics'>
     <div class='homepage-stat'>
       <strong id='publication_count'>—</strong>
@@ -37,11 +38,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
-# 🔬 Research
-<span class='anchor' id='research'></span>
-
-**Research interests:** Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Behavior Foundation Models · Motion Planning · Sim-to-Real
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
