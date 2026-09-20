@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Electronic Information Engineering at SUSTech working on embodied intelligence and robotics. My research focuses on planning and control for autonomous robots, with an emphasis on navigation, manipulation, and learning-based decision making. I am interested in translating models and algorithms into efficient, reliable systems that can operate in complex real-world environments.
+I previously studied Electronic Information Engineering at SUSTech and work on robot learning and control. My current research focuses on reinforcement learning for humanoid whole-body control and contact-rich interaction, with interests in behavior foundation models, task-conditioned motion control, and sim-to-real deployment.
 
-My current work spans graph-based motion planning, map-free multi-agent navigation with LiDAR and lightweight reinforcement learning, socially aware crowd navigation with uncertainty-aware risk adaptation, and contact-rich manipulation. Across these topics, I study how learning, uncertainty estimation, and optimization can be combined to improve robot safety, efficiency, and generalization. My citation statistics are updated automatically from Google Scholar below, with a current snapshot of <span id='total_cit'>48</span> total citations.
+My previous research spans contact-rich manipulation, learning-based robot navigation, and motion planning.
+
+# 🔬 Research
+<span class='anchor' id='research'></span>
+
+**Research interests:** Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Motion Planning · Sim-to-Real
+
+**Links:** [Email](mailto:12332163@mail.sustech.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=kX-y4IoAAAAJ) · [GitHub](https://github.com/xrdiao) · [DBLP](https://dblp.org/pid/358/2705.html) · [ORCID](https://orcid.org/0009-0001-9070-7450)
+<span id='total_cit' class='sr-only' aria-live='polite'></span>
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
@@ -30,6 +38,9 @@ My current work spans graph-based motion planning, map-free multi-agent navigati
 - *2024*: 🎉 Graph neural network-based method for robot path planning was published in Biomimetic Intelligence and Robotics and received the BIRob Best Paper Award ([official announcement](https://sucro.sdu.edu.cn/zyqk/qkxw/8.htm), [award photo](https://mp.weixin.qq.com/s/IoKwl7eMIs89X9MaRSwwnw), [paper](https://doi.org/10.1016/j.birob.2024.100147), [code](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning)).
 - *2023.09*: 🎉🎉 Join the rπ Club.
 
+# 💼 Experience
+- Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the 2026 World Robot Conference.
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +50,7 @@ Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with C
 Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zhang, Jiankun Wang
 
 [**Project**](https://sites.google.com/view/scsp-robot/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:UeHWp8X0CEIC'></span></strong>
-- This project developed a cascaded optimization framework for contact-rich manipulation, including contact selection and contact planning modules, to enable efficient contact reasoning and trajectory generation for complex object geometries.
+- TL;DR: Cascaded optimization for contact selection and motion planning in contact-rich manipulation.
 </div>
 </div>
 
@@ -51,7 +62,7 @@ Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zh
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Baozhi Jia, Jiankun Wang
 
 [**Project**](https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u-x6o8ySG0sC'></span></strong>
-- This project proposed LSTP-Nav, which uses a lightweight GRU-based policy with attention mechanisms and a novel HS reward for map-free multi-agent navigation using LiDAR, achieving a 9.58% higher success rate and 12.30% lower collision rate while maintaining real-time performance over 40 Hz on CPU-only platforms.
+- TL;DR: Lightweight LiDAR-based policy for real-time map-free multi-agent navigation.
 </div>
 </div>
 
@@ -64,7 +75,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 [**Project**](https://sites.google.com/view/lr-mpc/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-- This paper proposes Learning-Risk Model Predictive Control (LR-MPC), a novel algorithm for socially aware robot navigation in crowded environments. LR-MPC integrates a Probabilistic Ensemble Neural Network (PENN) with Model Predictive Control (MPC) to balance efficiency, safety, and social compliance. Two-Phase Framework: 1. Offline phase: A PENN model is trained on heuristic risk data from HR-MPC to predict navigation risks. 2. Online phase: Candidate waypoints are sampled using a Multi-RRT global planner, evaluated by PENN for risk, and filtered via epistemic and aleatoric uncertainty.
+- TL;DR: Uncertainty-aware risk adaptation with learning-based MPC for socially aware robot crowd navigation.
 </div>
 </div>
 
@@ -77,7 +88,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 [**Project**](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- The accompanying [implementation](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning) includes training and evaluation code with a PyBullet simulator. The method reduces collision checks to 0.49% of PRM and 1.74% of RRT* in 7D environments, achieving a 62× speedup in planning time (0.193s vs. PRM's 12.02s) while maintaining a 98% success rate, though with slightly higher path costs. In 6D real-world tests, it cuts collision checks by 99.7% and planning time by 98.6% compared to baselines.
+- TL;DR: Graph neural network guidance for sampling-based robot path planning with fewer collision checks.
 </div>
 </div>
 
@@ -86,9 +97,10 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 - *2023.10* SUSTech Graduate Academic Scholarship, Special Prize.
 - *2022.07* MATE ROV World Championship. Global runner-up in the online division and champion of the mainland China division as a core member of the Glaucus team.
 
-# 📖 Educations
-- *2023.06 - 2026.01 (now)*, Southern University of Science and Technology (SUSTech), M.S., Department of Electrical and Electronic Engineering  
+# 📖 Education
+<span class='anchor' id='-educations'></span>
+- *2023.09 - 2026.07*, Southern University of Science and Technology (SUSTech), M.S., Department of Electrical and Electronic Engineering<br>
   Research focus: Robot Navigation and Manipulation
-- *2019.09 - 2023.06*, Southern University of Science and Technology (SUSTech), B.E., Department of Mechanical and Energy Engineering  
+- *2019.09 - 2023.06*, Southern University of Science and Technology (SUSTech), B.E., Department of Mechanical and Energy Engineering<br>
   Key courses: Robot Modeling, CAD, Data Structures, and Algorithm Analysis
 

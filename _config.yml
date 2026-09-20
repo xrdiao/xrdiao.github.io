@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xingrong Diao's homepage"
-description              : "Master’s student at SUSTech, specializing in embodied intelligence and robotics. "
+description              : "Robot learning and control researcher focused on humanoid learning, whole-body control, and contact-rich interaction."
 repository               : "xrdiao/xrdiao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xingrong Diao"
   avatar           : "images/photo_for_account.jpg"
-  bio              : "Southern University of Science and Technology"
+  bio              : "Robot Learning and Control"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
