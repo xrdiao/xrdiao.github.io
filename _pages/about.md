@@ -49,7 +49,7 @@ Simultaneous Contact Selection and Planning for Contact-Rich Manipulation with C
 Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zhang, Jiankun Wang
 
 [**Project**](https://sites.google.com/view/scsp-robot/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:UeHWp8X0CEIC'></span></strong>
-- TL;DR: Cascaded optimization for contact selection and motion planning in contact-rich manipulation.
+- A cascaded optimization framework jointly handles contact selection and contact planning for contact-rich manipulation. It enables efficient contact reasoning and trajectory generation for objects with complex geometries.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zh
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Baozhi Jia, Jiankun Wang
 
 [**Project**](https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u-x6o8ySG0sC'></span></strong>
-- TL;DR: Lightweight LiDAR-based policy for real-time map-free multi-agent navigation.
+- LSTP-Nav combines a lightweight GRU policy with attention and a novel HS reward for map-free multi-agent navigation using LiDAR. It reports higher success and lower collision rates while maintaining real-time performance above 40 Hz on CPU-only platforms.
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 [**Project**](https://sites.google.com/view/lr-mpc/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-- TL;DR: Uncertainty-aware risk adaptation with learning-based MPC for socially aware robot crowd navigation.
+- LR-MPC combines a probabilistic ensemble neural network with model predictive control to adapt navigation risk in crowded environments. It learns risk offline and uses uncertainty-aware waypoint evaluation online to balance efficiency, safety, and social compliance.
 </div>
 </div>
 
@@ -87,7 +87,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 [**Project**](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- TL;DR: Graph neural network guidance for sampling-based robot path planning with fewer collision checks.
+- The project provides training and evaluation code with a PyBullet simulator for graph neural network-guided sampling-based path planning. In the reported experiments, it achieves a 62× planning speedup with a 98% success rate in 7D simulation while substantially reducing collision checks and planning time in 6D real-world tests.
 </div>
 </div>
 
