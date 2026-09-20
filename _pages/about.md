@@ -21,13 +21,12 @@ I previously studied Electronic Information Engineering at SUSTech and work on r
 
 My previous research spans contact-rich manipulation, learning-based robot navigation, and motion planning.
 
+<small>Google Scholar citations: <span id='total_cit' aria-live='polite'>48</span></small>
+
 # 🔬 Research
 <span class='anchor' id='research'></span>
 
 **Research interests:** Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Motion Planning · Sim-to-Real
-
-**Links:** [Email](mailto:12332163@mail.sustech.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=kX-y4IoAAAAJ) · [GitHub](https://github.com/xrdiao) · [DBLP](https://dblp.org/pid/358/2705.html) · [ORCID](https://orcid.org/0009-0001-9070-7450)
-<small>Google Scholar citations: <span id='total_cit' aria-live='polite'>48</span></small>
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
