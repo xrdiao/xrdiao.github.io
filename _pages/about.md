@@ -27,7 +27,7 @@ My previous research spans contact-rich manipulation, learning-based robot navig
 **Research interests:** Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Motion Planning · Sim-to-Real
 
 **Links:** [Email](mailto:12332163@mail.sustech.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=kX-y4IoAAAAJ) · [GitHub](https://github.com/xrdiao) · [DBLP](https://dblp.org/pid/358/2705.html) · [ORCID](https://orcid.org/0009-0001-9070-7450)
-<span id='total_cit' class='sr-only' aria-live='polite'></span>
+<small>Google Scholar citations: <span id='total_cit' aria-live='polite'>48</span></small>
 
 <!-- <a href='https://scholar.google.com/citations?user=kX-y4IoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
@@ -39,7 +39,7 @@ My previous research spans contact-rich manipulation, learning-based robot navig
 - *2023.09*: 🎉🎉 Join the rπ Club.
 
 # 💼 Experience
-- Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the 2026 World Robot Conference.
+- *2026.04 - 2026.06* · Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the 2026 World Robot Conference.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
