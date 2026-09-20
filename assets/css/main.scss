@@ -40,6 +40,77 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.homepage-hero {
+    padding: .25em 0 1.5em;
+    border-bottom: 1px solid $border-color;
+
+    &__name {
+        margin: 0 0 .35em;
+        color: $gray;
+        font-family: $sans-serif;
+        font-size: $type-size-4;
+        letter-spacing: .03em;
+    }
+
+    &__title {
+        margin: 0 0 .3em !important;
+        padding: 0 !important;
+        border-bottom: 0 !important;
+        font-size: $type-size-2;
+        line-height: 1.15;
+    }
+
+    &__focus {
+        margin: 0 0 1em;
+        color: $info-color;
+        font-family: $sans-serif;
+        font-size: $type-size-4;
+    }
+
+    &__intro {
+        max-width: 52em;
+        margin: 0 0 .75em !important;
+    }
+}
+
+.homepage-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 1.25em;
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+}
+
+.homepage-stat {
+    min-width: 0;
+    padding: .8em .5em;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.homepage-stat + .homepage-stat {
+    border-left: 1px solid $border-color;
+}
+
+.homepage-stat strong,
+.homepage-stat span {
+    display: block;
+}
+
+.homepage-stat strong {
+    color: $text-color;
+    font-size: $type-size-3;
+    line-height: 1.1;
+}
+
+.homepage-stat span {
+    margin-top: .35em;
+    color: $gray;
+    font-size: $type-size-7;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
