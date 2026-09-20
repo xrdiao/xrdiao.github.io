@@ -27,7 +27,7 @@ My current work spans graph-based motion planning, map-free multi-agent navigati
 # 🔥 News
 - *2026.08*: 🎉 LSTP-Nav was accepted by IEEE Transactions on Automation Science and Engineering ([paper](https://doi.org/10.1109/TASE.2026.3725345)).
 - *2026*: 🎉 Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation was published in IEEE Transactions on Systems, Man, and Cybernetics: Systems ([paper](https://doi.org/10.1109/TSMC.2026.3720408)).
-- *2024*: 🎉 Graph neural network-based method for robot path planning was published in Biomimetic Intelligence and Robotics and received the BIRob 优秀论文奖 ([award](https://mp.weixin.qq.com/s/IoKwl7eMIs89X9MaRSwwnw), [paper](https://doi.org/10.1016/j.birob.2024.100147), [code](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning)).
+- *2024*: 🎉 Graph neural network-based method for robot path planning was published in Biomimetic Intelligence and Robotics and received the BIRob Outstanding Paper Award ([official announcement](https://sucro.sdu.edu.cn/zyqk/qkxw/8.htm), [award photo](https://mp.weixin.qq.com/s/IoKwl7eMIs89X9MaRSwwnw), [paper](https://doi.org/10.1016/j.birob.2024.100147), [code](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning)).
 - *2023.09*: 🎉🎉 Join the rπ Club.
 
 # 📝 Publications 
@@ -68,7 +68,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024 · BIRob 优秀论文奖</div><img src='images/GNN-based.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetic Intelligence and Robotics 2024 · BIRob Outstanding Paper Award</div><img src='images/GNN-based.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Graph neural network-based method for robot path planning](https://www.sciencedirect.com/science/article/pii/S2667379724000056)
