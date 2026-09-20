@@ -49,7 +49,7 @@ redirect_from:
 - *2023.09*: 🎉🎉 Join the rπ Club.
 
 # 💼 Experience
-- *2026.04 - 2026.06* · Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the 2026 World Robot Conference.
+- *2026.04 - 2026.06* · Robotics Algorithm Intern, [Ruiwei Technology (Xiamen Ruiwei Information Technology Co., Ltd.)](https://www.worldrobotconference.com/expo/company/786.html). Developed backpack-grasping algorithms for the airport luggage-transfer robot project; the system was demonstrated at the [2026 World Robot Conference](https://www.worldrobotconference.com/).
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/flip_bunny.gif' alt="sym" width="100%"></div></div>
