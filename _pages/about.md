@@ -22,7 +22,7 @@ redirect_from:
   <p class='homepage-hero__intro'>I received my M.S. in Electronic Information Engineering from SUSTech in 2026.</p>
   <p class='homepage-hero__intro'>I work on learning-based whole-body control for humanoid robots, particularly contact-rich interaction and task-conditioned behaviors, with broader interests in behavior foundation models and sim-to-real deployment.</p>
   <p class='homepage-hero__intro'>My previous research spans contact-rich manipulation, learning-based robot navigation, and motion planning.</p>
-  <p class='homepage-hero__interests'><span>Research interests:</span> Humanoid Robot Learning · Reinforcement Learning · Whole-Body Control · Contact-Rich Interaction · Behavior Foundation Models · Motion Planning · Sim-to-Real</p>
+  <p class='homepage-hero__interests'><span>Research interests:</span> Humanoid Robot Learning · Contact-Rich Interaction · Behavior Foundation Models · Motion Planning · Sim-to-Real</p>
   <div class='homepage-stats' aria-label='Research statistics'>
     <div class='homepage-stat'>
       <strong id='publication_count'>—</strong>
