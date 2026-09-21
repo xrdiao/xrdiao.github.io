@@ -98,7 +98,7 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 
 [**Project**](https://github.com/xrdiao/GNN-based-method-for-robot-path-planning) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- The project provides training and evaluation code with a PyBullet simulator for graph neural network-guided sampling-based path planning. In the reported experiments, it achieves a 62× planning speedup with a 98% success rate in 7D simulation while substantially reducing collision checks and planning time in 6D real-world tests.
+- The project provides training and evaluation code with a PyBullet simulator for graph neural network-guided sampling-based path planning. Achieved 62× faster planning with a 98% success rate in simulation on a 7-DoF robot arm, and significantly reduced collision checks and planning time in real-world tests on a 6-DoF robot arm.
 </div>
 </div>
 
