@@ -103,9 +103,9 @@ Zhirui Sun, **Xingrong Diao**, Yao Wang, Bi-Ke Zhu, Wenjun Xu, and Jiankun Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship. The highest honor for a master's student.
+- *2025.10* National Scholarship (China), a competitive scholarship awarded to outstanding master's students.
 - *2023.10* SUSTech Graduate Academic Scholarship, Special Prize.
-- *2022.07* MATE ROV World Championship. Global runner-up in the online division and champion of the mainland China division as a core member of the Glaucus team.
+- *2022.07* MATE ROV World Championship. Served as a core member of the Glaucus team, achieving 2nd place globally in the online division and 1st place in the mainland China division.
 
 # 🤝 Academic Service
 <span class='anchor' id='academic-service'></span>
