@@ -71,7 +71,7 @@ Zhe Zhang\*, **Xingrong Diao**\*, Haoxiang Liang, Han Yang, Bi-Ke Zhu, Dandan Zh
 
 **Xingrong Diao**, Zhirui Sun, Jianwei Peng, Bi-Ke Zhu, Baozhi Jia, Jiankun Wang
 
-[**Project**](https://sites.google.com/view/lstp-net/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://sites.google.com/view/lstp-nav/) <strong><span class='show_paper_citations' data='kX-y4IoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - LSTP-Nav combines a lightweight GRU policy with attention and a novel HS reward for map-free multi-agent navigation using LiDAR. It reports higher success and lower collision rates while maintaining real-time performance above 40 Hz on CPU-only platforms.
 </div>
 </div>
